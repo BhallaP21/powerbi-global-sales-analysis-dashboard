@@ -1,4 +1,4 @@
-## 📊 Global Sales Analysis Dashboard – Power BI  
+## 📊 Global Sales Analysis Dashboard | Power BI  
 
 🔹 **Project Overview**
 
